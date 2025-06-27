@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: rgb(218, 59, 59);
+    background-color: rgb(0, 0, 0);
+    color: red;
 }
 
 header{
