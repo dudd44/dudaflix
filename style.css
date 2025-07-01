@@ -32,3 +32,12 @@ header{
 .chamada-texto{
     margin-right: 5%;
 }
+
+img{
+    height: 200px;
+}
+
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+}
