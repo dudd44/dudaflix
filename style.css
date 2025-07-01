@@ -34,10 +34,11 @@ header{
 }
 
 img{
-    height: 200px;
+    height: 500px;
 }
 
 .categoria-video{
     display: flex;
     overflow-x: auto;
+
 }
