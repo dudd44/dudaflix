@@ -15,7 +15,7 @@ h1{
 }
 
 p{
-    overflow-wrap: break-word;
+
 }
 
 header{
@@ -31,6 +31,7 @@ header{
     display: flex;
     justify-content: center;
     background-color: #000000;
+        overflow-wrap: break-word;
 }
 
 .chamada-texto{
