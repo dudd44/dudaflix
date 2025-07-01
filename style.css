@@ -23,7 +23,7 @@ header{
     padding: 20px;
 }
 
-.chamada {
+.chamada{
     display: flex;
     justify-content: center;
     background-color: aqua;
