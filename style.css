@@ -16,15 +16,15 @@ h1{
 
 header{
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 0, 0); 
+    color: #000000; 
     font-size: 40px;
     text-align: center;
-    border-bottom: solid 4px red;
+    border-bottom: solid 4px #000000;
     padding: 20px;
 }
 
 .chamada{
     display: flex;
     justify-content: center;
-    background-color: #000000;
+    background-color: #ce0000;
 }
