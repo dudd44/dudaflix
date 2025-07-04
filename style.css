@@ -14,16 +14,13 @@ h1{
   font-style: normal;
 }
 
-p{
-
-}
 
 header{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 0, 0); 
     font-size: 40px;
     text-align: center;
-    border-bottom: solid 4px red;
+    border-bottom: solid 4px #ff0000;
     padding: 20px;
 }
 
@@ -47,4 +44,12 @@ img{
     display: flex;
     overflow-x: auto;
     gap: 20px;
+}
+
+.boasvindas {
+    padding-top: 40px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 40px;
+    background-color: #b85454;
 }
